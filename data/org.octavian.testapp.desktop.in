@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=testapp
+Exec=testapp
+Icon=org.octavian.testapp
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

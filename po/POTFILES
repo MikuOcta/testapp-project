@@ -1,0 +1,7 @@
+data/org.octavian.testapp.desktop.in
+data/org.octavian.testapp.appdata.xml.in
+data/org.octavian.testapp.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+
